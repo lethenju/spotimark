@@ -22,12 +22,24 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 .bookmark-button {
+    background: #1fe0;
     margin:10px;
-    border-radius: 5%;
-
+    width : 20px;
+    height : 20px;
+    border: 2px solid;
+ 
+    border-color:green;
+    border-radius:20%;
 }
 
 .bookmark-button-active {
-    text-decoration: none;
-    background-color: red;
+    background: green;
+    margin:10px;
+    width : 20px;
+    height : 20px;
+    border: 2px solid;
+ 
+    border-color:green;
+    border-radius:20%;
+
 }
