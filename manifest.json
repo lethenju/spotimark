@@ -24,7 +24,7 @@
         "content.js"
       ],
       "matches": [
-        "https://open.spotify.com/playlist/*"
+        "https://open.spotify.com/*"
       ]
     }
   ]
